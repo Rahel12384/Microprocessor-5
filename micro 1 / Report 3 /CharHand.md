@@ -176,7 +176,7 @@ void loop() {
 
 
 ## خروجی آزمایش:
-![alt text](https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20Report%203%20/%20VID_20250106_173813_844%20(1).gif)
 
+![alt text](https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20Report%203%20/%20VID_20250106_173813_844%20(1).gif)
 
 
