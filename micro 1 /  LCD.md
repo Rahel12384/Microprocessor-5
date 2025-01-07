@@ -15,7 +15,7 @@
  
   
  ## شماتیک مدار:
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20Report%201/555.png)
+![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20555.png)
 
 
 
