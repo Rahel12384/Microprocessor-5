@@ -129,5 +129,3 @@ for(int j=16 ; j>=0; j=j-2)
 
 
 
-
-https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20Report%202%20/%20VID_20250106_173800_228.gif
