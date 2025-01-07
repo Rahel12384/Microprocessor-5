@@ -45,5 +45,5 @@ lcd.clear();: این دستور صفحه LCD را پاک می‌کند. lcd.setC
 
 
 
-## تصویر مدار:
-![توضیح تصویر]()
+## خروجی ازمایش:
+![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-5/blob/main/micro%201%20/%20Report%201%20/%20IMG_20250106_173750_350.jpg)
